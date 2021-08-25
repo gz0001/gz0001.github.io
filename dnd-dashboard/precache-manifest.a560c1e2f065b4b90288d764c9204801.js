@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4f28ecca855f36a38c86",
+    "revision": "7430ba6c856deb682312",
     "url": "/dnd-dashboard/static/css/main.e55e7df6.chunk.css"
   },
   {
-    "revision": "4f28ecca855f36a38c86",
-    "url": "/dnd-dashboard/static/js/main.4f28ecca.chunk.js"
+    "revision": "7430ba6c856deb682312",
+    "url": "/dnd-dashboard/static/js/main.7430ba6c.chunk.js"
   },
   {
     "revision": "b282df77e86aa0bce545",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/dnd-dashboard/static/media/icomoon.b72090ef.woff"
   },
   {
-    "revision": "f7c7431532092de78227abfcb253e7a1",
+    "revision": "a6cabe7900f32659d2b4663ada6d84de",
     "url": "/dnd-dashboard/index.html"
   }
 ];
